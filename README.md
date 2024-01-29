@@ -1,8 +1,8 @@
 Medical Appointment Booking
-This is the Capstone project for the IBM Front-End Web Development Certification.
+- This is the Capstone project for the IBM Front-End Web Development Certification.
 
 Description
-In this project I will develop a website that is intended for the company StatHealthy. 
+- In this project I will develop a website that is intended for the company StatHealthy. 
 This will involve creating functioning appointment setting interactivity to connect patients with doctors near them
 based on specialty.
 
