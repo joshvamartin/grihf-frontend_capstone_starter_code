@@ -15,7 +15,7 @@ Installing
 - To be provided at a later point
 
 Help
--To be provided at a later point
+- To be provided at a later point
 
 Contributors names and contact info
 - ex. Joshua Martin
